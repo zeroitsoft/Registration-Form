@@ -1,0 +1,61 @@
+body{
+	margin: 5% 25%;
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.container{
+	padding: 20px 60px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.heading{
+	font-size: 50px;
+	color:rgb(60, 60, 60);
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+	text-align: center;
+}
+
+form{
+	
+	
+}
+
+.btn-submit{
+	padding: 10px;
+	border:1px solid gray;
+	width: 100px;
+	background: none;
+	cursor: pointer;
+	border-radius: 10px;
+	color: grey;
+	font-weight: bold;
+	font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.text-input{
+	margin-left: 50px;
+	width: 70%;
+	padding: 10px 5px;
+	outline: none;
+	box-shadow: none;
+	border:1px solid grey;
+}
+
+#emaddress{
+	margin-left: 88px;
+}
+
+#lastname{
+	margin-left: 52px;
+}
+
+#mobile{
+	margin-left: 84px;
+}
+
+.label-gender{
+	padding-right: 70px;
+}
+
+
+
